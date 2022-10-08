@@ -1,0 +1,125 @@
+.hall {
+  max-width: 1180px;
+  margin: 0 auto;
+  margin-bottom: 100px;
+}
+
+.hall__container {
+  max-width: 1180px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.hall__title {
+  margin-bottom: 60px;
+}
+
+.vibes {
+  width: 580px;
+  height: 349px;
+  background-image: url('../hall/img/vibes.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  float: left;
+  margin-bottom: 20px;
+
+}
+
+.vibes p {
+  padding-top: 135px;
+  padding-left: auto;
+}
+
+.vibes__title {
+  font-weight: 700;
+  font-size: 70px;
+  line-height: 80px;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.starwars {
+  width: 580px;
+  height: 349px;
+  background-image: url('../hall/img/star-wars.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  float: right;
+  margin-bottom: 20px;
+}
+
+.starwars__title {
+  position: relative;
+}
+
+.starwars p {
+  padding-top: 135px;
+  padding-left: auto;
+}
+
+.starwars__title {
+  font-weight: 700;
+  font-size: 70px;
+  line-height: 80px;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.wildwest {
+  width: 580px;
+  height: 349px;
+  background-image: url('../hall/img/wild-west.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  float: left;
+}
+
+.wildwest__title {
+  position: relative;
+}
+
+.wildwest p {
+  padding-top: 135px;
+  padding-left: auto;
+}
+
+.wildwest__title {
+  font-weight: 700;
+  font-size: 70px;
+  line-height: 80px;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0;
+
+}
+
+.neonstyle {
+  width: 580px;
+  height: 349px;
+  background-image: url('../hall/img/neon-style.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  float: right;
+}
+
+.neonstyle__title {
+  position: relative;
+}
+
+.neonstyle p {
+  padding-top: 135px;
+  padding-left: auto;
+}
+
+.neonstyle__title {
+  font-weight: 700;
+  font-size: 70px;
+  line-height: 80px;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+

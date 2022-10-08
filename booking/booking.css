@@ -1,0 +1,12 @@
+.booking {
+  position: relative;
+}
+
+.booking h2 {
+  margin-bottom: 50px;
+}
+
+.form__container {
+  max-width: 1140px;
+  margin: 0px 150px 60px 150px;
+}

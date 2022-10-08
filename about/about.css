@@ -1,0 +1,84 @@
+.about {
+  max-width: 1180px;
+  margin: 0 auto;
+  margin-bottom: 100px;
+}
+
+.about h2 {
+    margin-bottom: 40px;
+}
+
+.about__bgr-about {
+  width: 600px;
+  display: inline-block;
+  margin-right: 70px;
+}
+
+.article {
+  margin-bottom: 48px; 
+}
+
+.article p {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  text-align: left;
+  display: inline;
+}
+
+.article__first {
+  margin-bottom: 40px;
+}
+
+.about__article {
+  width: 500px;
+  min-height: 596px;
+  display: inline-block;
+  vertical-align: top;
+}
+  
+.quote {
+  font-weight: 400;
+  font-size: 44px;
+  line-height: 50px;
+  text-transform: uppercase;
+  margin: 0;
+}
+  
+.quote__mark {
+  position: relative;
+  max-width: 1180px;
+  margin-bottom: 41px;
+}
+  
+.quote__mark p {
+  text-align: left;
+  margin: 0;
+}
+  
+.mark__text {
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 50px;
+  color: #6C0287;
+}
+  
+.about__signature {
+  padding-left: 110px;
+}
+  
+.about__signature p {
+  display: inline-block;
+  max-width: 271px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  vertical-align: middle;
+  margin: 0;
+}
+  
+.about__signature img {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 29.72px;
+}
