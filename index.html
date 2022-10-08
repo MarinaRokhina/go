@@ -178,9 +178,19 @@
             E-mail
             <input class="datetime__input" type="email" name="email" required placeholder="E-mail">
           </label>
+
+          <label class="restrictions__label">
+            <input class="restrictions__input" type="checkbox" name="restrictions" required>
+            Я старше 18 лет
+          </label>
+
         </fieldset>
         
         <button class="booking__btn" form="my-form">Забронировать</button>
+        <label>
+          <input type="checkbox" name="agreement" required form="my-form">
+          Согласен на обработку данных
+        </label>
       </div>
       </form>
     </section>
